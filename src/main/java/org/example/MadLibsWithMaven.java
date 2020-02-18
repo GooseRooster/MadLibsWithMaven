@@ -16,13 +16,13 @@ public class MadLibsWithMaven {
         String adjective2 = "beautiful";
         String adjective3 = "excited";
         String verb1 = "dance";
-        String noun1 = "people";
+        String noun1 = "dogs";
         String noun2 = "tobacco";
         String noun3 = "music";
         String noun4 = "protesters";
         String noun5 = "yoghurt";
         String noun6 = "aliens";
-        String name2 = "Joy";
+        String name2 = "Sadness";
         int number = 2149;
         String place1 = "Los Angeles";
 
